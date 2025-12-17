@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello there 👋
 
+- 🌱 I’m currently learning python, TCL, perl, verilog, and C++
+- 🤔 I’m looking for help with career guidance and advice
+- 💬 Ask me about photograhpy and philosophy 
+- 📫 How to reach me: https://linktr.ee/ericphong
+- ⚡ Fun fact: I love trying new foods
 <!--
 **rfp479/rfp479** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
